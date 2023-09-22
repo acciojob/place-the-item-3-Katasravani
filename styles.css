@@ -1,2 +1,38 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+}
+#item-1{
+	width:100px;
+	height:100px;
+	background-color:red;
+}
+#item-2{
+	width:100px;
+	height:100px;
+	background-color:yellow;
+}
+#item-3{
+	width:100px;
+	height:100px;
+	background-color:orange;
+}
+#item-4{
+	width:100px;
+	height:100px;
+	background-color:lightblue;
+}
+#item-5{
+	width:100px;
+	height:100px;
+	background-color:hotpink;
+}
+#item-6{
+	width:100px;
+	height:100px;
+	background-color:indigo;
+}
